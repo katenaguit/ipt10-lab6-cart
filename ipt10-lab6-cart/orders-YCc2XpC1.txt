@@ -1,0 +1,9 @@
+Order Code: YCc2XpC1
+Date and Time Ordered: 2024-09-13 06:13:56
+
+Order Items:
+Product ID: 5
+Product Name: 25Kg Rice
+Price: 1200 PHP
+
+Total Price: 1200 PHP

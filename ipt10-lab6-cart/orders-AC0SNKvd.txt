@@ -1,0 +1,13 @@
+Order Code: AC0SNKvd
+Date and Time Ordered: 2024-09-13 06:13:48
+
+Order Items:
+Product ID: 1
+Product Name: 1Kg Sugar
+Price: 100 PHP
+
+Product ID: 3
+Product Name: One Dozen Eggs
+Price: 200 PHP
+
+Total Price: 300 PHP
